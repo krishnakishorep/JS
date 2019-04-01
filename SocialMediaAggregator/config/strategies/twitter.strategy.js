@@ -4,8 +4,8 @@ var User = require('../../models/userModel');
 
 module.exports = function(){
     passport.use(new TwitterStrategy({
-        consumerKey: '8m8yYZ2fQcNRD2GKSEFQnDFGv',
-        consumerSecret: 'NOmmY9DtRmjsBZO9kUhlMe4KGt2VhnE7iiprR8zxfyYdhZE6hd',
+        consumerKey: 'key',
+        consumerSecret: 'secret',
         callbackURL: 'http://localhost:3000/auth/twitter/callback',
         passReqToCallback: true
     },
