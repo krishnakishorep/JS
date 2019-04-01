@@ -22,4 +22,6 @@
   - Visit https://developers.facebook.com/ to setup the authentication
   - Visit https://developer.twitter.com/ to setup the authentication
 - Configuring the strategies
-  - 
+  - Refer to Facebook.strategy.js 
+  - Refer to Google.strategy.js
+  - Refer to Twitter.strategy.js
