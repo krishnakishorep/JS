@@ -12,14 +12,14 @@
 - Used Mongoose to save the users using User schema model
 
 ### Steps involved
--Configuring passport
+- Configuring passport
   - Setup passport using NPM command
   - Import passport into express (app.js)
   - Do initialize(), session(), serializeUser() and deserializeUser()
   - import all three strategies (google, twitter and facebook )
--Pre setup for authorization to get ClientID, Secret and setup Callback/Redirect URL
+- Pre setup for authorization to get ClientID, Secret and setup Callback/Redirect URL
   - Visit https://console.developers.google.com/ to setup the authentication and use Googleplus API
   - Visit https://developers.facebook.com/ to setup the authentication
   - Visit https://developer.twitter.com/ to setup the authentication
--Configuring the strategies
+- Configuring the strategies
   - 
