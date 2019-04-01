@@ -1,4 +1,4 @@
-# Social-AggregatorUsingOAUTH
+# SocialAggregator-OAUTH
 #### This is a simple webpage to demostrate the OAUTH setup using Passport
 
 ### Following libraries are used to setup the sample application:
