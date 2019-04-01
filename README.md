@@ -25,3 +25,19 @@
   - Refer to Facebook.strategy.js 
   - Refer to Google.strategy.js
   - Refer to Twitter.strategy.js
+
+### Login
+ ![image](https://github.com/krishnakishorep/Social-AggregatorUsingOAUTH/blob/master/ScreenShots/HomePage.PNG)
+ 
+### Consent 
+![image](https://github.com/krishnakishorep/Social-AggregatorUsingOAUTH/blob/master/ScreenShots/ConscentScreen.PNG)
+
+### Redirect Page
+![image](https://github.com/krishnakishorep/Social-AggregatorUsingOAUTH/blob/master/ScreenShots/Loggedin.PNG)
+
+### After logged in via Facebook and Twitter
+![image](https://github.com/krishnakishorep/Social-AggregatorUsingOAUTH/blob/master/ScreenShots/AggregatedLogin.PNG)
+
+### User record in MongoDB
+![image](https://github.com/krishnakishorep/Social-AggregatorUsingOAUTH/blob/master/ScreenShots/UserInMongo.PNG)
+
